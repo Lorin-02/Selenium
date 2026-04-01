@@ -54,6 +54,3 @@ Notes
 Make sure the path for uploadPicture exists on your system:
 await driver.findElement(By.id("uploadPicture")).sendKeys("C:\\Users\\Asus\\Downloads\\image (2).png");
 Adjust details (name, email, etc.) in runner.js as needed.
-Website Link
-
-DemoQA Automation Practice Form
