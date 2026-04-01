@@ -1,7 +1,7 @@
 # Selenium Automation: DemoQA Practice Form
 
-## Project Overview
-This project automates the **Practice Form** on [DemoQA](https://demoqa.com/automation-practice-form) using **Selenium WebDriver** with **JavaScript** (Node.js).  
+## Overview
+This repository contains a **Selenium WebDriver automation** script in **JavaScript (Node.js)** that fills and submits the **Practice Form** on [DemoQA](https://demoqa.com/automation-practice-form).  
 
 The automation fills the form with personal details, selects gender, date of birth, subjects, hobbies, uploads a picture, selects state and city, and submits the form.
 
